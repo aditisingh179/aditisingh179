@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello 👋 I am Aditi Singh ✨
+- ⭐ I am pursuing b.tech computer science and engineering at *UPES Dehradun*
+- ⭐ I have done my schooling from  *D.P.S Dhanbad* .
+- You can reach me through my email address*aditisingh79110@gmail.com*
+- I am currently learning about *github*.
 
 <!--
 **aditisingh179/aditisingh179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
